@@ -9,7 +9,7 @@
 <body>
 
 <!--Basic structure of login form-->
-<video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg">
+<video id="background-video" autoplay loop muted poster="src/image/river.jpg">
     <source src="src/video/first-screen.mp4" type="video/mp4">
 </video>
 <div class="content" >
